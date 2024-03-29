@@ -937,6 +937,6 @@ def main():
         lexer()
         Rat24s(file)
     print("\n=====================================================")    
-    print("Syntax Anazlyer done! Results saved in sa_results" + filename )
+    print("Syntax Analyzer done! Results saved in sa_results" + filename )
 
 main()
